@@ -20926,7 +20926,7 @@ namespace router {
   * 	// generate a http.ServeMux instance based on the router configurations
   * 	mux, _ := r.BuildMux()
   * 
-  * 	http.ListenAndServe("localhost:8090", mux)
+  * 	http.ListenAndServe("https://ozi-pocketbase-production.up.railway.app", mux)
   * ```
   */
  type _skxgfxH<T> = RouterGroup<T>
